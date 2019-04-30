@@ -2,7 +2,7 @@
   "errno": 0,
   "data": {
     "name": "东大粥品香坊",
-    "description": "王悦专送",
+    "description": "悦悦专送",
     "deliveryTime": 38,
     "score": 4.2,
     "serviceScore": 4.1,
@@ -12,7 +12,7 @@
     "deliveryPrice": 0,
     "ratingCount": 24,
     "sellCount": 90,
-    "bulletin": "东大粥品香坊是东北大学最好吃的粥品，其烹饪粥料的秘方源于中国千年古法，在融和现代制作工艺，由世界烹饪大师屈浩先生领衔研发。坚守纯天然、0添加的良心品质深得消费者青睐，发展至今成为粥类的引领品牌。是东北大学指定餐饮服务商。",
+    "bulletin": "东大粥品香坊其烹饪粥料的秘方源于中国千年古法，在融和现代制作工艺，由世界烹饪大师屈浩先生领衔研发。坚守纯天然、0添加的良心品质深得消费者青睐，发展至今成为粥类的引领品牌。是东北大学指定餐饮服务商。",
     "supports": [
       {
         "type": 0,
@@ -38,13 +38,14 @@
     "avatar": "http://static.galileo.xiaojukeji.com/static/tms/seller_avatar_256px.jpg",
     "pics": [
       "http://neunews.neu.edu.cn/d/file/xiaoyuanfengjing/2013-11-14/20131114091400264.jpg?imageView2/1/w/180/h/180",
-      "http://img2.zxxk.com/2009-4/ZXXKCOM2009041413373029463.jpg?imageView2/1/w/180/h/180",
-      "https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1556601742&di=2a5f9612984ebc193a050b619aa2db82&src=http://www.yiduad.com/upload/20170426/1493197175_31706.jpg?imageView2/1/w/180/h/180",
+      "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1556616742867&di=4082eb6eba92caf5cf67250f8a7c7387&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01afd25a293058a801216e8ddeb810.jpg%401280w_1l_2o_100sh.jpg",
+      "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1556616742868&di=2c6e30011c22a6b24ea0f1c15d406cf8&imgtype=0&src=http%3A%2F%2Fs3.sinaimg.cn%2Fmw690%2F002eyR0Pgy6IFQbnLIm32%26690",
+      "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1556616742863&di=ad1717b9b8fcdb3fa08f92d77da0e193&imgtype=0&src=http%3A%2F%2Fwww.o439.cn%2Fbaixing%2FUploadFiles_5241%2F201607%2F2016070106021927.png"
     ],
     "infos": [
       "该商家支持发票,请下单写好发票抬头",
       "品类:其他菜系,包子粥店",
-      "辽宁省沈阳市和平区文化路三巷11号",
+      "辽宁省沈阳市和平区文化路3号巷11号",
       "营业时间:10:00-20:30"
     ]
   }
