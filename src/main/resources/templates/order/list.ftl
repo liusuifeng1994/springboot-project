@@ -108,7 +108,7 @@
 <script>
     var websocket=null;
     if('WebSocket' in window){
-        websocket=new WebSocket('ws://sqmax.natapp1.cc/sell/webSocket');
+        websocket=new WebSocket('ws://neuwangyue.tech/sell/webSocket');
     }else{
         alert('该浏览器不支持websocket');
     }
